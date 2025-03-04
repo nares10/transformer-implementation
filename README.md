@@ -1,4 +1,3 @@
-# transformer-implementation
 # Transformer Architecture Implementation
 
 [![Transformer Architecture](images/Screenshot 2025-03-02 074643.png)](images/Screenshot 2025-03-02 074643.png)
