@@ -1,6 +1,6 @@
 # Transformer Architecture Implementation
 
-[![Transformer Architecture](images/Screenshot 2025-03-02 074643.png)](images/Screenshot 2025-03-02 074643.png)
+[![Transformer Architecture](images/Screenshot 2025-03-02 074643.png)
 
 This repository contains a PyTorch implementation of the Transformer architecture based on the seminal paper [Attention is All You Need](https://arxiv.org/abs/1706.03762). The project is designed for ease of experimentation and learning for myself
 
