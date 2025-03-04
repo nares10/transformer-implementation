@@ -26,6 +26,6 @@ The Transformer model leverages multi-head self-attention and positional encodin
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/transformer-architecture.git
+   git clone https://github.com/nares10/transformer-architecture.git
    cd transformer-architecture
    
